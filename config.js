@@ -8,6 +8,6 @@
 //  seguridad la ponen las reglas de la base de datos.
 // ============================================================
 window.PESCR_CONFIG = {
-  url: "PEGA_AQUI_TU_PROJECT_URL",   // ej.: https://abcdefghijkl.supabase.co
-  key: "PEGA_AQUI_TU_LLAVE_ANON"     // empieza con sb_publishable_ o con eyJ
+  url: "https://sqipvrmnwhsbolqoksoj.supabase.co",   // ej.: https://abcdefghijkl.supabase.co
+  key: "sb_publishable_Q4Y5ERXGVUtIHwUIvxQ-rQ_WLbOnBqo"     // empieza con sb_publishable_ o con eyJ
 };
